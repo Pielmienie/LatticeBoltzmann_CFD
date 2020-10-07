@@ -1,1 +1,1 @@
-# LatticeBoltzmann_CFD
+# LatticeBoltzann_2D
